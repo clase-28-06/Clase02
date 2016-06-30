@@ -1,0 +1,19 @@
+1. Crear la estructura básica de un documento HTML5.
+
+2. Agregar todas las etiquetas semánticas vistas en clase.
+
+3. Agregar dos párrafos que contengan al menos un salto de línea.
+
+4. Agregar una lista ordenada por alfabeto y una no ordenada.
+
+5. Usar dos encabezados de cualquier tamaño.
+
+6. Dentro de los párrafos debe haber texto en negrita y en cursiva. Usar etiquetas con significado semántico.
+
+7. Agregar una tabla con al menos tres columnas.
+
+8. Al final de la página agregar un formulario de contacto que contenga los siguientes campos: nombre, apellido, sexo, email y comentarios.
+
+9. Agregar un video de youtube.
+
+10. Deben existir por lo menos un enlace absoluto y uno relativo.
